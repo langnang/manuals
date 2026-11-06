@@ -5,30 +5,6 @@
     "styles": {},
     "scripts": {},
     "metas": {
-      "useful": {
-        "id": "useful",
-        "title": "常用网站",
-        "type": "category",
-        "contents": [],
-        "links": [],
-        "files": []
-      },
-      "journals": {
-        "id": "journals",
-        "title": "期刊官网",
-        "type": "category",
-        "contents": [],
-        "links": [],
-        "files": []
-      },
-      "scholars": {
-        "id": "scholars",
-        "title": "关注学者",
-        "type": "category",
-        "contents": [],
-        "links": [],
-        "files": []
-      },
       "web": {
         "id": "web",
         "title": "Web",
@@ -45,7 +21,8 @@
           "w3school_js",
           "runoob_html",
           "runoob_css",
-          "runoob_js"
+          "runoob_js",
+          "ruanyifeng_flex"
         ],
         "files": []
       },
@@ -209,6 +186,10 @@
         "name": "W3School JavaScript 教程",
         "url": "https://www.w3school.com.cn/js/index.asp",
         "description": "W3School JavaScript 教程"
+      },
+      "ruanyifeng_flex": {
+        "name": "Flex 布局教程：语法篇 - 阮一峰的网络日志",
+        "url": "https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html"
       },
       "runoob_html": {
         "name": "菜鸟 HTML 教程",
