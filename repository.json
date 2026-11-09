@@ -45,7 +45,17 @@
           "org_esbuild",
           "org_babel",
           "org_typescript",
-          "org_element_ui"
+          "org_element_ui",
+          {
+            "id": "org_vue",
+            "name": "Vue.js 官方文档",
+            "url": "https://cn.vuejs.org/"
+          },
+          {
+            "id": "org_react",
+            "name": "React 官方文档",
+            "url": "https://react.docschina.org/"
+          }
         ],
         "files": []
       },
@@ -72,14 +82,6 @@
     },
     "contents": {},
     "links": {
-      "org_vue": {
-        "name": "Vue.js 官方文档",
-        "url": "https://cn.vuejs.org/"
-      },
-      "org_react": {
-        "name": "React 官方文档",
-        "url": "https://react.docschina.org/"
-      },
       "org_angular": {
         "name": "Angular 官方文档",
         "url": "https://angular.cn/"
